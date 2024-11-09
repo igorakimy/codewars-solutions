@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29)
-project(codewars_tasks C)
+project(codewars_solutions C)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(CMAKE_C_STANDARD 99)
@@ -12,3 +12,6 @@ add_executable(5808dcb8f0ed42ae34000031 8kyu/5808dcb8f0ed42ae34000031.c)
 
 # Calculate average
 add_executable(57a2013acf1fa5bfc4000921 8kyu/57a2013acf1fa5bfc4000921.c)
+
+# Basic Mathematical Operations
+add_executable(57356c55867b9b7a60000bd7 8kyu/57356c55867b9b7a60000bd7.c)
