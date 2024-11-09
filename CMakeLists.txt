@@ -18,3 +18,6 @@ add_executable(57356c55867b9b7a60000bd7 8kyu/57356c55867b9b7a60000bd7.c)
 
 # Sum Arrays
 add_executable(53dc54212259ed3d4f00071c 8kyu/53dc54212259ed3d4f00071c.c)
+
+# Credit Card Mask
+add_executable(5412509bd436bd33920011bc 7kyu/5412509bd436bd33920011bc.c)
