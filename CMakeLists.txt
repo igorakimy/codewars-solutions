@@ -15,3 +15,6 @@ add_executable(57a2013acf1fa5bfc4000921 8kyu/57a2013acf1fa5bfc4000921.c)
 
 # Basic Mathematical Operations
 add_executable(57356c55867b9b7a60000bd7 8kyu/57356c55867b9b7a60000bd7.c)
+
+# Sum Arrays
+add_executable(53dc54212259ed3d4f00071c 8kyu/53dc54212259ed3d4f00071c.c)
