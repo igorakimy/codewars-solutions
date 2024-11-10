@@ -21,3 +21,6 @@ add_executable(53dc54212259ed3d4f00071c 8kyu/53dc54212259ed3d4f00071c.c)
 
 # Credit Card Mask
 add_executable(5412509bd436bd33920011bc 7kyu/5412509bd436bd33920011bc.c)
+
+# Regex validate PIN code
+add_executable(55f8a9c06c018a0d6e000132 7kyu/55f8a9c06c018a0d6e000132.c)
