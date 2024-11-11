@@ -24,3 +24,6 @@ add_executable(5412509bd436bd33920011bc 7kyu/5412509bd436bd33920011bc.c)
 
 # Regex validate PIN code
 add_executable(55f8a9c06c018a0d6e000132 7kyu/55f8a9c06c018a0d6e000132.c)
+
+# Sum of Minimums!
+add_executable(5d5ee4c35162d9001af7d699 7kyu/5d5ee4c35162d9001af7d699.c)
