@@ -30,3 +30,6 @@ add_executable(5d5ee4c35162d9001af7d699 7kyu/5d5ee4c35162d9001af7d699.c)
 
 # Check the exam
 add_executable(5a3dd29055519e23ec000074 7kyu/5a3dd29055519e23ec000074.c)
+
+# Small enough? - Beginner
+add_executable(57cc981a58da9e302a000214 7kyu/57cc981a58da9e302a000214.c)
