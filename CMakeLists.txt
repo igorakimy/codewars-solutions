@@ -27,3 +27,6 @@ add_executable(55f8a9c06c018a0d6e000132 7kyu/55f8a9c06c018a0d6e000132.c)
 
 # Sum of Minimums!
 add_executable(5d5ee4c35162d9001af7d699 7kyu/5d5ee4c35162d9001af7d699.c)
+
+# Check the exam
+add_executable(5a3dd29055519e23ec000074 7kyu/5a3dd29055519e23ec000074.c)
