@@ -37,6 +37,9 @@ add_executable(55fab1ffda3e2e44f00000c6 8kyu/55fab1ffda3e2e44f00000c6.c)
 # Get the mean of an array
 add_executable(563e320cee5dddcf77000158 8kyu/563e320cee5dddcf77000158.c)
 
+# Double Char
+add_executable(56b1f01c247c01db92000076 8kyu/56b1f01c247c01db92000076.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
