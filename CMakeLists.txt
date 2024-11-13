@@ -28,6 +28,9 @@ add_executable(523b623152af8a30c6000027 8kyu/523b623152af8a30c6000027.c)
 add_executable(555a67db74814aa4ee0001b5 8kyu/555a67db74814aa4ee0001b5.c)
 target_link_libraries(555a67db74814aa4ee0001b5 m)
 
+# Keep up the hoop
+add_executable(55cb632c1a5d7b3ad0000145 8kyu/55cb632c1a5d7b3ad0000145.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
