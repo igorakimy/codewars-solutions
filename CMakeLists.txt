@@ -40,6 +40,9 @@ add_executable(563e320cee5dddcf77000158 8kyu/563e320cee5dddcf77000158.c)
 # Double Char
 add_executable(56b1f01c247c01db92000076 8kyu/56b1f01c247c01db92000076.c)
 
+# Sum without highest and lowest number
+add_executable(576b93db1129fcf2200001e6 8kyu/576b93db1129fcf2200001e6.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
