@@ -68,3 +68,6 @@ add_executable(5a3dd29055519e23ec000074 7kyu/5a3dd29055519e23ec000074.c)
 
 # Small enough? - Beginner
 add_executable(57cc981a58da9e302a000214 7kyu/57cc981a58da9e302a000214.c)
+
+# Square Every Digit
+add_executable(546e2562b03326a88e000020 7kyu/546e2562b03326a88e000020.c)
