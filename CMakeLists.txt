@@ -49,6 +49,9 @@ add_executable(577a98a6ae28071780000989 8kyu/577a98a6ae28071780000989.c)
 # Remove exclamation marks
 add_executable(57a0885cbb9944e24c00008e 8kyu/57a0885cbb9944e24c00008e.c)
 
+# Simple multiplication
+add_executable(583710ccaa6717322c000105 8kyu/583710ccaa6717322c000105.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
