@@ -46,6 +46,9 @@ add_executable(576b93db1129fcf2200001e6 8kyu/576b93db1129fcf2200001e6.c)
 # Find Maximum and Minimum Values of a List
 add_executable(577a98a6ae28071780000989 8kyu/577a98a6ae28071780000989.c)
 
+# Remove exclamation marks
+add_executable(57a0885cbb9944e24c00008e 8kyu/57a0885cbb9944e24c00008e.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
