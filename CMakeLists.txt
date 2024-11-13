@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.29)
 project(codewars_solutions C)
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_C_STANDARD 11)
 
 # ---------------- 8 kyu ---------------- #
 
@@ -23,6 +23,10 @@ add_executable(53dc54212259ed3d4f00071c 8kyu/53dc54212259ed3d4f00071c.c)
 
 # Function 2 - squaring an argument
 add_executable(523b623152af8a30c6000027 8kyu/523b623152af8a30c6000027.c)
+
+# Is it even?
+add_executable(555a67db74814aa4ee0001b5 8kyu/555a67db74814aa4ee0001b5.c)
+target_link_libraries(555a67db74814aa4ee0001b5 m)
 
 # ---------------- 7 kyu ---------------- #
 
