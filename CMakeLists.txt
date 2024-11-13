@@ -4,6 +4,8 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(CMAKE_C_STANDARD 99)
 
+# ---------------- 8 kyu ---------------- #
+
 # Will you make it?
 add_executable(5861d28f124b35723e00005e 8kyu/5861d28f124b35723e00005e.c)
 
@@ -18,6 +20,11 @@ add_executable(57356c55867b9b7a60000bd7 8kyu/57356c55867b9b7a60000bd7.c)
 
 # Sum Arrays
 add_executable(53dc54212259ed3d4f00071c 8kyu/53dc54212259ed3d4f00071c.c)
+
+# Function 2 - squaring an argument
+add_executable(523b623152af8a30c6000027 8kyu/523b623152af8a30c6000027.c)
+
+# ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
 add_executable(5412509bd436bd33920011bc 7kyu/5412509bd436bd33920011bc.c)
