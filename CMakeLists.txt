@@ -31,6 +31,9 @@ target_link_libraries(555a67db74814aa4ee0001b5 m)
 # Keep up the hoop
 add_executable(55cb632c1a5d7b3ad0000145 8kyu/55cb632c1a5d7b3ad0000145.c)
 
+# Beginner Series #4 Cockroach
+add_executable(55fab1ffda3e2e44f00000c6 8kyu/55fab1ffda3e2e44f00000c6.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
