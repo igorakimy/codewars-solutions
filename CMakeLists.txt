@@ -64,6 +64,9 @@ add_executable(55f9b48403f6b87a7c0000bd 8kyu/55f9b48403f6b87a7c0000bd.c)
 # Are You Playing Banjo?
 add_executable(53af2b8861023f1d88000832 8kyu/53af2b8861023f1d88000832.c)
 
+# Convert a Boolean to a String
+add_executable(551b4501ac0447318f0009cd 8kyu/551b4501ac0447318f0009cd.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
