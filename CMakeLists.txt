@@ -3,6 +3,9 @@ project(codewars_solutions C)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_EXTENSIONS ON)
+
+string(APPEND CMAKE_C_FLAGS "-D_GNU_SOURCE")
 
 # ---------------- 8 kyu ---------------- #
 
@@ -51,6 +54,9 @@ add_executable(57a0885cbb9944e24c00008e 8kyu/57a0885cbb9944e24c00008e.c)
 
 # Simple multiplication
 add_executable(583710ccaa6717322c000105 8kyu/583710ccaa6717322c000105.c)
+
+# A Needle in the Haystack
+add_executable(56676e8fabd2d1ff3000000c 8kyu/56676e8fabd2d1ff3000000c.c)
 
 # ---------------- 7 kyu ---------------- #
 
