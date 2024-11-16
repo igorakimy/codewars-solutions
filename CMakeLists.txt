@@ -70,6 +70,9 @@ add_executable(551b4501ac0447318f0009cd 8kyu/551b4501ac0447318f0009cd.c)
 # How good are you really?
 add_executable(5601409514fc93442500010b 8kyu/5601409514fc93442500010b.c)
 
+# Sentence Smash
+add_executable(53dc23c68a0c93699800041d 8kyu/53dc23c68a0c93699800041d.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
