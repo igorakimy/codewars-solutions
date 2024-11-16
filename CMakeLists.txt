@@ -67,6 +67,9 @@ add_executable(53af2b8861023f1d88000832 8kyu/53af2b8861023f1d88000832.c)
 # Convert a Boolean to a String
 add_executable(551b4501ac0447318f0009cd 8kyu/551b4501ac0447318f0009cd.c)
 
+# How good are you really?
+add_executable(5601409514fc93442500010b 8kyu/5601409514fc93442500010b.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
