@@ -79,6 +79,9 @@ add_executable(57a429e253ba3381850000fb 8kyu/57a429e253ba3381850000fb.c)
 # Array plus array
 add_executable(5a2be17aee1aaefe2a000151 8kyu/5a2be17aee1aaefe2a000151.c)
 
+# Area or Perimeter
+add_executable(5ab6538b379d20ad880000ab 8kyu/5ab6538b379d20ad880000ab.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
