@@ -82,6 +82,9 @@ add_executable(5a2be17aee1aaefe2a000151 8kyu/5a2be17aee1aaefe2a000151.c)
 # Area or Perimeter
 add_executable(5ab6538b379d20ad880000ab 8kyu/5ab6538b379d20ad880000ab.c)
 
+# Grasshopper - Personalized Message
+add_executable(5772da22b89313a4d50012f7 8kyu/5772da22b89313a4d50012f7.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
