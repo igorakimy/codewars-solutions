@@ -58,6 +58,9 @@ add_executable(583710ccaa6717322c000105 8kyu/583710ccaa6717322c000105.c)
 # A Needle in the Haystack
 add_executable(56676e8fabd2d1ff3000000c 8kyu/56676e8fabd2d1ff3000000c.c)
 
+# Beginner Series #1 School Paperwork
+add_executable(55f9b48403f6b87a7c0000bd 8kyu/55f9b48403f6b87a7c0000bd.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
