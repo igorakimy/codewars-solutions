@@ -73,6 +73,9 @@ add_executable(5601409514fc93442500010b 8kyu/5601409514fc93442500010b.c)
 # Sentence Smash
 add_executable(53dc23c68a0c93699800041d 8kyu/53dc23c68a0c93699800041d.c)
 
+# Calculate BMI
+add_executable(57a429e253ba3381850000fb 8kyu/57a429e253ba3381850000fb.c)
+
 # ---------------- 7 kyu ---------------- #
 
 # Credit Card Mask
